@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC42_AuthMe_Returns_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>e60c3510-5647-4fa6-90a6-cbb71d05128a</testCaseGuid>
+</TestCaseEntity>

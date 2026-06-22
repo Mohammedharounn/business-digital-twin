@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Business_Builder_Wizard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>5ad071a3-6fd1-4a2a-9556-a8ebd1161224</testCaseGuid>
+</TestCaseEntity>

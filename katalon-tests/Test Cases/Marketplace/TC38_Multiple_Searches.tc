@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC38_Multiple_Searches</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>c6653571-90e7-482e-b279-0ea7a361f01c</testCaseGuid>
+</TestCaseEntity>

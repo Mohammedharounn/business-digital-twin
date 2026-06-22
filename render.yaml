@@ -1,0 +1,45 @@
+# Render deployment for the backend (Express + Socket.io).
+# Render runs a persistent Node process, so WebSockets / live updates work here
+# (unlike Vercel serverless). Set the secret env vars in the Render dashboard.
+services:
+  - type: web
+    name: bdt-backend
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    healthCheckPath: /api/v1/market/fx
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: USE_REAL_MONGO
+        value: "true"
+      - key: MONGODB_URI      # set in dashboard → your MongoDB Atlas connection string
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: JWT_EXPIRE
+        value: 15m
+      - key: JWT_REFRESH_SECRET
+        sync: false
+      - key: JWT_REFRESH_EXPIRE
+        value: 7d
+      - key: CLIENT_ORIGIN    # your Vercel URL, e.g. https://your-app.vercel.app
+        sync: false
+      - key: EBAY_CLIENT_ID
+        sync: false
+      - key: EBAY_CLIENT_SECRET
+        sync: false
+      - key: EMAIL_HOST
+        sync: false
+      - key: EMAIL_PORT
+        value: "587"
+      - key: EMAIL_USER
+        sync: false
+      - key: EMAIL_PASS
+        sync: false
+      - key: EMAIL_FROM
+        sync: false
+      - key: GOOGLE_CLIENT_ID
+        sync: false

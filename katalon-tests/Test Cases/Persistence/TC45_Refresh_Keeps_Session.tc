@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC45_Refresh_Keeps_Session</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>0adbb9cc-f8d9-4b15-ba4b-f1911a2111f3</testCaseGuid>
+</TestCaseEntity>

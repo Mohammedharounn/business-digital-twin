@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18_API_MultiUser_Isolation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>3c240303-6047-4a21-97e1-f936320a1a67</testCaseGuid>
+</TestCaseEntity>

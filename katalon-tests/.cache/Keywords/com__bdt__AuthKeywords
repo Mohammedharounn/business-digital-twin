@@ -1,0 +1,85 @@
+{
+  "keywordFileContentHash": "E85571583F0BED0C0D54BE126FCD4B19",
+  "keywordClasses": [
+    {
+      "name": "com.bdt.AuthKeywords",
+      "keywordMethods": [
+        {
+          "name": "loginVerified",
+          "parameters": [
+            {
+              "name": "email",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/** Login as a PRE-VERIFIED user (no OTP step). Lands on the Project Selector. */"
+        },
+        {
+          "name": "loginWithOtp",
+          "parameters": [
+            {
+              "name": "email",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/** Login as an UNVERIFIED user: reads the on-screen dev OTP code and submits it. */"
+        },
+        {
+          "name": "logout",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "enterAnyProject",
+          "parameters": [],
+          "javadoc": "/** Ensure we are inside the app on a project (continue last, else create new). */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

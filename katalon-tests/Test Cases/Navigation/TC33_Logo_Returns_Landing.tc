@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC33_Logo_Returns_Landing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>9750ae37-214c-4010-8a2d-03ee0046372e</testCaseGuid>
+</TestCaseEntity>

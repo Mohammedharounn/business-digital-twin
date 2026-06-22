@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Dashboard_Tabs_Switch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>9a170389-16e1-472a-8d43-3055ee67f919</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC25_Google_Button_Present</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>95d66252-d7a0-4b49-a2e4-fa790138b721</testCaseGuid>
+</TestCaseEntity>

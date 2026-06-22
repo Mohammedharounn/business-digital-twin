@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC40_Ebay_EmptyQuery_400</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>4c7148f2-a987-4718-a898-b1ac6e51cc09</testCaseGuid>
+</TestCaseEntity>

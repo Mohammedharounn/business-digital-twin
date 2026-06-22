@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28_Selector_Heading_Visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>d409b4d9-1bc5-4cc1-99bc-2c3238f422a9</testCaseGuid>
+</TestCaseEntity>

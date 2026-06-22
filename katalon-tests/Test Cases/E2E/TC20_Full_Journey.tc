@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20_Full_Journey</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>c9252e27-912d-4c22-b8be-fb4eb7af1fb0</testCaseGuid>
+</TestCaseEntity>

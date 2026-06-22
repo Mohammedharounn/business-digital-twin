@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Login_EmptyFields_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>26cd432a-ca13-41b8-920a-a1adae9b57fd</testCaseGuid>
+</TestCaseEntity>

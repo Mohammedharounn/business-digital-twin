@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29_KPI_Values_NonEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>076ff37e-c492-4478-89d8-61d937bc58f3</testCaseGuid>
+</TestCaseEntity>

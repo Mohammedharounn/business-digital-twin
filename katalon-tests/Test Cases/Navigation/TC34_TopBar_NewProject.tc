@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC34_TopBar_NewProject</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>0871c572-9ee8-4756-b1d9-5fa0ecb242e1</testCaseGuid>
+</TestCaseEntity>

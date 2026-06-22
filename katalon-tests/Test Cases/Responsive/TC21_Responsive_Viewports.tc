@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21_Responsive_Viewports</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>63612454-dbaf-41fb-b823-68670cc0bc46</testCaseGuid>
+</TestCaseEntity>

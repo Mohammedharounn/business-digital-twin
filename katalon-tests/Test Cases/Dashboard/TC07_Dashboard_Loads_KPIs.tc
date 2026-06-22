@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Dashboard_Loads_KPIs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>b0c6fad4-e248-4b99-912c-33317d155994</testCaseGuid>
+</TestCaseEntity>

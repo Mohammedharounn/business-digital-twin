@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_Tab_CashFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>2efb654f-6ebf-4fa8-9af8-cd27d96e48c4</testCaseGuid>
+</TestCaseEntity>

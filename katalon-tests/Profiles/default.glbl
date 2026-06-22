@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Frontend (Vite) base URL</description>
+      <initValue>'http://localhost:3002'</initValue>
+      <name>BASE_URL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Express backend API base URL</description>
+      <initValue>'http://localhost:5000/api/v1'</initValue>
+      <name>API_URL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Pre-verified test account (created by seed-test-user.js)</description>
+      <initValue>'qa.tester@bdt.local'</initValue>
+      <name>TEST_EMAIL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password for the test account</description>
+      <initValue>'QaTester#2026'</initValue>
+      <name>TEST_PASSWORD</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Display name of the test account</description>
+      <initValue>'QA Tester'</initValue>
+      <name>TEST_NAME</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Second verified account for multi-user isolation tests</description>
+      <initValue>'qa.tester2@bdt.local'</initValue>
+      <name>TEST_EMAIL_2</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password for the second account</description>
+      <initValue>'QaTester#2026'</initValue>
+      <name>TEST_PASSWORD_2</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Email guaranteed not to exist</description>
+      <initValue>'nobody@nowhere.invalid'</initValue>
+      <name>INVALID_EMAIL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Deliberately wrong password</description>
+      <initValue>'WrongPassword#000'</initValue>
+      <name>INVALID_PASSWORD</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Default explicit wait (seconds)</description>
+      <initValue>'20'</initValue>
+      <name>DEFAULT_TIMEOUT</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

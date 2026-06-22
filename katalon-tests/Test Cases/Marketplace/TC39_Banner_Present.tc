@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC39_Banner_Present</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>8fa20ea8-fa9e-4a80-80ee-6c396405ba55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+server/node_modules/
+
+# secrets — never commit these
+.env
+.env.*
+server/.env
+server/.env.*
+
+# build output
+dist/
+build/
+
+# logs / temp
+*.log
+server/server.log
+.DS_Store
+
+# katalon reports (local only)
+katalon-tests/Reports/
+katalon-tests/settings/

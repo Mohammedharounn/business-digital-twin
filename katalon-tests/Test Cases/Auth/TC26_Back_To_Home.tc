@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26_Back_To_Home</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>5e0d02ab-caf9-4c9c-ac08-6770e7d49246</testCaseGuid>
+</TestCaseEntity>

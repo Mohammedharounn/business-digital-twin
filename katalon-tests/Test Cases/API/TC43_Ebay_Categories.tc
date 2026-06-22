@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC43_Ebay_Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>3ea84b1d-ab17-4509-b49f-54e2d4a10f3c</testCaseGuid>
+</TestCaseEntity>

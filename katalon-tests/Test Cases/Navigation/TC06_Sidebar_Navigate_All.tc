@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Sidebar_Navigate_All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>4454f8b8-c6a4-4936-a977-00c7922b0728</testCaseGuid>
+</TestCaseEntity>

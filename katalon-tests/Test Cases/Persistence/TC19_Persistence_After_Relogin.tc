@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_Persistence_After_Relogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>8685f35c-4bef-4b45-aca5-d604c183eda4</testCaseGuid>
+</TestCaseEntity>

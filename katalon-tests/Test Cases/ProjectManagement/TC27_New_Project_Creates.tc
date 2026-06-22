@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27_New_Project_Creates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>ed0f3550-a59e-4285-b18f-f5956426b507</testCaseGuid>
+</TestCaseEntity>

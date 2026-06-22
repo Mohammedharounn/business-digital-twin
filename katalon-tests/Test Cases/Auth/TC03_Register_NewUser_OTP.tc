@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Register_NewUser_OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>74c47c1c-14b6-47c8-88fc-84b0b1aa7004</testCaseGuid>
+</TestCaseEntity>

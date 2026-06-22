@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC36_Category_Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>570f5fb2-4e82-442c-940f-82d65dbec7ff</testCaseGuid>
+</TestCaseEntity>

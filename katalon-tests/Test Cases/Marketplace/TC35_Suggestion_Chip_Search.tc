@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC35_Suggestion_Chip_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>d5c866bb-c63b-4562-9657-e83565cdf3a1</testCaseGuid>
+</TestCaseEntity>

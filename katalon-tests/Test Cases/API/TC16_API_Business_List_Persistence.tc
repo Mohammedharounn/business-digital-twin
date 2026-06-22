@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16_API_Business_List_Persistence</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>66c5d853-1264-4612-8b13-fecda3aff31b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC31_Tab_NeuralRisks</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>fd77cc9c-6792-44d2-94a0-0d92be172fea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17_API_Ebay_Search_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>2492e7cf-e371-4dd3-9567-03b2944711fa</testCaseGuid>
+</TestCaseEntity>

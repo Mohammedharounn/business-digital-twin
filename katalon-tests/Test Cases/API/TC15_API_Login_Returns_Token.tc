@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_API_Login_Returns_Token</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>123aa6e3-45c0-415e-b7fd-2f47d5a6fc54</testCaseGuid>
+</TestCaseEntity>

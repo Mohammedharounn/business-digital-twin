@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC37_View_Ebay_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>BASIC</recordOption>
+   <testCaseGuid>6298c532-e12d-487c-bd49-d8c69172191e</testCaseGuid>
+</TestCaseEntity>
