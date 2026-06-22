@@ -128,6 +128,10 @@ function AppContent() {
     // 🌐 INITIALIZE WEBSOCKET
     useEffect(() => {
         const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api/v1';
+        // Only connect when the API is a full http(s) origin with a real socket
+        // server (local dev). On Vercel the API base is relative ("/api/v1") and
+        // there is no persistent WebSocket — skip to avoid endless reconnects.
+        if (!/^https?:\/\//i.test(apiUrl)) return;
         const newSocket = io(apiUrl.replace('/api/v1', ''), {
             transports: ['websocket'],
             reconnection: true
