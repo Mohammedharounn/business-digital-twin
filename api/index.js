@@ -1,6 +1,7 @@
 // Vercel serverless entrypoint (ESM — matches root package.json "type": "module").
-// Handles every /api/* request by delegating to the Express app. The frontend
-// (static Vite build) and this API share one domain, so cookies work natively.
+// vercel.json rewrites all /api/* to this single function; Express reads the
+// original URL (e.g. /api/v1/auth/login) and routes accordingly. Frontend (static
+// Vite build) and this API share one domain, so auth cookies work natively.
 import app from '../server/app.js';
 import connectDB from '../server/config/db.js';
 
