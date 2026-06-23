@@ -1,12 +1,13 @@
-// Vercel serverless entrypoint — handles every /api/* request by delegating to
-// the Express app. Frontend (static Vite build) and this API share one domain.
-const app = require('../server/app');
-const connectDB = require('../server/config/db');
+// Vercel serverless entrypoint (ESM — matches root package.json "type": "module").
+// Handles every /api/* request by delegating to the Express app. The frontend
+// (static Vite build) and this API share one domain, so cookies work natively.
+import app from '../server/app.js';
+import connectDB from '../server/config/db.js';
 
-// Ensure we connect to MongoDB once per warm container, then reuse it.
+// Connect to MongoDB once per warm container, then reuse it.
 let dbReady = null;
 
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
     try {
         if (!dbReady) dbReady = connectDB();
         await dbReady;
@@ -19,4 +20,4 @@ module.exports = async (req, res) => {
         return;
     }
     return app(req, res);
-};
+}
